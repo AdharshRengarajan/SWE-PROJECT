@@ -1,7 +1,7 @@
 # MatchWise
 
 ## Overview
-MatchWise is an AI-powered job matching platform that revolutionizes the recruitment process by leveraging Large Language Models to create intelligent connections between candidates and opportunities. Unlike traditional ATS systems that rely on rigid keyword matching, MatchWise understands context, recognizes transferable skills, and provides meaningful matches for both job seekers and recruiters.
+MatchWise is an AI-powered job matching platform that revolutionizes the recruitment process by leveraging Large Language Models to create intelligent connections between candidates and opportunities. Unlike traditional ATS systems that rely on rigid keyword matching, MatchWise understands context, recognizes transferable skills, and provides meaningful matches for both job seekers and recruiters. 
 
 ## Team - TheWiseCodeCatalysts
 - **Adharsh Rengarajan** (002085750) - Backend Development & AI Integration
